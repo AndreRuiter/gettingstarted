@@ -4,6 +4,7 @@ public class HelloWorld
 	{
 		System.Console.WriteLine("Hello World");
 		System.Console.WriteLine("Hello World again");
+		System.Console.Readline();
 		//partial state
 		System.Console.WriteLine("Guess what...?");
 
